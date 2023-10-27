@@ -1,6 +1,6 @@
-<!-- DinhManhAGF -->
+<!-- DinhManhAVG -->
 <a href="#" target="_blank">
-  <img src="svg/DinhManhAGF.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/DinhManhAVG.svg" width="1200" alt="trungquandev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -30,11 +30,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="DinhManhAGF">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhManhAGF&theme=tokyonight" />
+  <a href="#" title="DinhManhAVG">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinhManhAVG&theme=tokyonight" />
   </a>
-  <a href="#" title="DinhManhAGF">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=DinhManhAGF&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="DinhManhAVG">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=DinhManhAVG&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -44,7 +44,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://www.facebook.com/manhtran07" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="DinhManhAGF-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="DinhManhAVG-facebook" />
   </a>
 </div>
 
