@@ -8,21 +8,31 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/.NET-282C34?logo=.NET&logoColor=F7DF1E" alt=".NET logo" title=".NET" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C++-282C34?logo=c++&logoColor=#00599C" alt="C++ logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C Sharp-282C34?logo=c Sharp&logoColor=#239120" alt="C Sharp logo" title="C Sharp" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/diagrams.net-282C34?logo=diagrams.net&logoColor=#F08705" alt="diagrams.net logo" title="diagrams.net" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=#009639" alt="Nginx logo" title="Nginx" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Eclipse IDE-282C34?logo=eclipse IDE&logoColor=#2C2255" alt="Eclipse IDE logo" title="Eclipse IDE" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Shopify-282C34?logo=shopify&logoColor=#7AB55C" alt="Shopify logo" title="Shopify" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=#F37626" alt="Jupyter logo" title="Jupyter" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=HTML5&logoColor=#E34F26" alt="HTML logo" title="HTML" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=CSS3&logoColor=#1572B6" alt="CSS logo" title="CSS" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=#7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=#FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/IntelliJ IDEA-282C34?logo=intelliJ IDEA&logoColor=#000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Mongodb-282C34?logo=mongodb&logoColor=#47A248" alt="Mongodb logo" title="Mongodb" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Microsoft SQL Server-282C34?logo=microsoft SQL Server&logoColor=#CC2927" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
 
 <br>
@@ -54,5 +64,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/DinhManhAVG-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
